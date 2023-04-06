@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/WernerHeisenberg1/count.svg)
+
+![WernerHeisenberg1's GitHub stats](https://github-readme-stats.vercel.app/api?username=WernerHeisenberg1&show_icons=true&theme=tokyonight)
+
 <!--
 **WernerHeisenberg1/WernerHeisenberg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
